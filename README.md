@@ -3,7 +3,7 @@
 ## Key steps:
 
 ```
-git clone https://github.com/phoebe-p/S4
+git clone https://github.com/Luochenghuang/S4
 cd S4
 make boost
 make S4_pyext
